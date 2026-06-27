@@ -1,0 +1,11 @@
+playwright
+fake_useragent
+nltk
+sentence_transformers
+bs4
+pymongo
+google-generativeai
+spacy
+numpy
+pandas
+dotenv
